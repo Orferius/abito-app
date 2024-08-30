@@ -6,6 +6,7 @@ export const cardArray = [
         address: "Казань, р-н Вахитовский",
         date: "10 июля 11:39",
         img: "/images/card-img.png",
+        desc: "Продаю не спеша самокат в хорошем состоянии."
     },
     {
         id: 1,
@@ -14,6 +15,7 @@ export const cardArray = [
         address: "Казань, р-н Вахитовский",
         date: "10 июля 11:39",
         img: "/images/card-img.png",
+        desc: "Покрышки CST внедорожные."
     },
     {
         id: 2,
@@ -22,6 +24,7 @@ export const cardArray = [
         address: "Казань, р-н Вахитовский",
         date: "10 июля 11:39",
         img: "/images/card-img.png",
+        desc: "Установлен отсекатель сзади."
     },
     {
         id: 3,
@@ -30,6 +33,7 @@ export const cardArray = [
         address: "Казань, р-н Вахитовский",
         date: "10 июля 11:39",
         img: "/images/card-img.png",
+        desc: "Из минусов — нужно прокачать задний тормоз."
     },
     {
         id: 4,
@@ -38,6 +42,7 @@ export const cardArray = [
         address: "Казань, р-н Вахитовский",
         date: "10 июля 11:39",
         img: "/images/card-img.png",
+        desc: "За период эксплуатации не выявлено ни одной проблемы."
     },
     {
         id: 5,
@@ -46,6 +51,7 @@ export const cardArray = [
         address: "Казань, р-н Вахитовский",
         date: "10 июля 11:39",
         img: "/images/card-img.png",
+        desc: "Торг возможен."
     },
 ];
 
