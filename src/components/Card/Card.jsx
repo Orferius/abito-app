@@ -4,7 +4,7 @@ export const Card = ({ title, price, address, date, img }) => {
     return (
         <a href="/product.html" className="card">
             <div className="card--img">
-                <img src={img} alt="card-img" />
+                <img src={img} alt={title} />
             </div>
 
             <h5 className="card--title">{title}</h5>

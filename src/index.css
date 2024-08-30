@@ -131,26 +131,6 @@ body {
   margin-bottom: 36px;
 }
 
-.content-side__list-item {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-}
-
-.content-side__list-item--title {
-  margin-top: 7px;
-  margin-bottom: 5px;
-  line-height: 16px;
-  font-size: 14px;
-  font-weight: 700;
-}
-
-.content-side__list-item--text {
-  line-height: 16px;
-  font-size: 14px;
-  margin: 0;
-}
-
 .content-side__footer {
   display: flex;
   flex-direction: column;

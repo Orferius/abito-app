@@ -1,0 +1,19 @@
+.facility {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.facility--title {
+    margin-top: 7px;
+    margin-bottom: 5px;
+    line-height: 16px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.facility--text {
+    line-height: 16px;
+    font-size: 14px;
+    margin: 0;
+}
